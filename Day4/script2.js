@@ -17,3 +17,11 @@ console.log(date.getDate());
 
 
 console.log("====Math Object====");
+console.log(Math.PI);
+console.log(Math.max(10,20,30,40));
+console.log(Math.min(10,20,30,40));
+console.log(Math.round(5.6));
+console.log(Math.ceil(9.9));
+console.log(Math.floor(9.9));
+console.log(Math.sqrt(16));
+console.log(Math.pow(2,10));
